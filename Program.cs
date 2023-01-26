@@ -23,7 +23,7 @@ namespace klavyeden_girilen_2sayıyı_çarpma
             Console.WriteLine("Sayıların Çarpımı =" + carpim);
             Console.ReadLine();
 
-
+            //gayet güzel olmuş :)))
         }
     }
 }
